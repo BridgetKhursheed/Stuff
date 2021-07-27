@@ -2,4 +2,4 @@
 
 ## Samples and simples
 
-This repository is used for testing on a poetry informatics project samples.
+This repository is used for testing on poetry and informatics project samples.
