@@ -16,4 +16,4 @@ I work in the middle of the night and why not; it is **easier and quieter**. I l
 
 ---
 
-I used a automatic poetry generator to create this poem - you may be able to identify the styles input onto similar key words; they include Edgar Allan Poe, Lewis Carroll, Allen Ginsberg and Vogon.
+I used an automatic poetry generator to create this poem - you may be able to identify the styles input onto similar key words; they include Edgar Allan Poe, Lewis Carroll, Allen Ginsberg and Vogon.
